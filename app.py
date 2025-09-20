@@ -23,8 +23,9 @@ def download_file(url, output):
 # Hugging Face file URLs
 # (replace 'your-username' and 'your-repo')
 # ========================
-similar_url = "https://huggingface.co/Abhiram1712/movie-recommender-models/resolve/main/similar.pkl"
-movies_dict_url = "https://huggingface.co/Abhiram1712/movie-recommender-models/resolve/main/movies_dict.pkl"
+similar_url = "https://huggingface.co/Abhiram1712/movie-recommender/resolve/main/similar.pkl"
+movies_dict_url = "https://huggingface.co/Abhiram1712/movie-recommender/resolve/main/movies_dict.pkl"
+
 
 # ========================
 # Download & load models
